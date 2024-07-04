@@ -27,12 +27,12 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #f8f8f8;
+  --cd-body-background-color:            #d1d0df;
   --cd-content-background-color:         #ffffff;
   --cd-faded-background-color:           #f8f8f8;
 
   /* Background Extras */
-  --cd-body-background-image:             url(https://i.pinimg.com/564x/78/56/d1/7856d1e8255311ba28c466dbc8b81567.jpg);
+  --cd-body-background-image:             url();
 
   /* ============================================================= */
   /* Text
